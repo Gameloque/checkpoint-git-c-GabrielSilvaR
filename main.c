@@ -7,8 +7,8 @@ int main(void){
         printf("  -RM:");
     printf(" 573093 \n");
 
-
-
-    printf(" Sejam bem vindos! ");
+    printf("          Sejam bem vindos!       \n");
+        printf("         Tenha uma otima aula!      \n");
+    
     return 0;
 }
