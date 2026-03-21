@@ -2,8 +2,8 @@
 
 int main(void){
     printf(" -Painel de Membros- \n");
-        printf("Membros:");
-
+        printf("Membros:\n");
+    printf("     Gabriel Henrique Silva ");
 
 
 
